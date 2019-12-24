@@ -20,15 +20,10 @@ site_build_date = "2019-12-18T16:51+08:00"
 author = "龙牙"
 email = "longyakushanshui@gmail.com"
 author_homepage = "https://www.imalan.cn"
-description = "春乏、夏倦、秋困、冬眠"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+description = "要么读书，要么运动，身体和灵魂总得有一个在路上。"
+key_words = ['Maverick', '龙牙', 'Galileo', 'blog']
 language = 'zh-CN'
 external_links = [
-    {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
-    },
     {
         "name": "三無計劃",
         "url": "https://www.imalan.cn",
@@ -61,13 +56,13 @@ social_links = [
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/longyakss",
         "icon": "gi gi-github"
     },
     {
-        "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
-        "icon": "gi gi-weibo"
+        "name": "bilibili",
+        "url": "https://space.bilibili.com/66399282",
+        "icon": "gi gi-bilibili"
     }
 ]
 
